@@ -1,0 +1,12 @@
+# .gitignore
+# Protect your credentials — don't share these files
+
+# Jira credentials (once you've filled them in)
+.vscode/mcp.json
+
+# VS Code local settings
+.vscode/settings.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
